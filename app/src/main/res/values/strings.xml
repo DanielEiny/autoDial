@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AutoDial</string>
+    <string name="channel_name">Redial session</string>
+    <string name="number_hint">Phone number</string>
+    <string name="choose_contact">Choose contact</string>
+    <string name="delay_label">Delay between attempts (s)</string>
+    <string name="max_label">Maximum attempts (0 = unlimited)</string>
+    <string name="speaker">Speaker on during calls</string>
+    <string name="threshold_label">Answered if duration ≥ (s)</string>
+    <string name="limits">Delay 0–%1$d s. Redialing stops when the call is answered, the maximum is reached, or you tap Stop.</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="view_log">View log</string>
+    <string name="fix_battery">Allow background (battery)</string>
+    <string name="app_settings">App settings</string>
+    <string name="log_title">AutoDial log</string>
+    <string name="copy_log">Copy log</string>
+    <string name="share_log">Share log</string>
+    <string name="clear">Clear</string>
+    <string name="clear_confirm">Clear the whole log?</string>
+    <string name="copied">Log copied</string>
+    <string name="battery_title">Battery optimization is on</string>
+    <string name="battery_message">With battery optimization on, Android may pause the app while the screen is off and redialing can stop or be delayed. Allow AutoDial to run in the background?</string>
+    <string name="battery_fix">Allow</string>
+    <string name="battery_continue">Start anyway</string>
+</resources>
